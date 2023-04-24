@@ -1,4 +1,4 @@
-﻿namespace WebAPIClient.Dtos;
+﻿namespace WebAPIClient.Models;
 
 public class Config
 {
