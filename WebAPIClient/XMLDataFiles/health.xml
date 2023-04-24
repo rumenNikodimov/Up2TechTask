@@ -1,0 +1,126 @@
+<Root>
+  <Status>Degraded</Status>
+  <TotalDuration>00:00:00.2327747</TotalDuration>
+  <Entries>
+    <wintopAdapter-westfriesland>
+      <Data>
+        <Version>1.0.2394</Version>
+        <VersionInfo>20230404.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:10:38.3734507Z</UtcTime>
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.2053114</Duration>
+      <Status>Healthy</Status>
+    </wintopAdapter-westfriesland>
+    <pitaneAdapter-trevvel>
+      <Data>
+        <Version>1.0.2387</Version>
+        <VersionInfo>20230328.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:10:38.3743841Z</UtcTime>
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.2021084</Duration>
+      <Status>Healthy</Status>
+    </pitaneAdapter-trevvel>
+    <wintopAdapter-trevvel>
+      <Data>
+        <Version>1.0.2394</Version>
+        <VersionInfo>20230404.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:10:38.3754445Z</UtcTime>
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.0875934</Duration>
+      <Status>Healthy</Status>
+    </wintopAdapter-trevvel>
+    <achmeaAdapter-zcn>
+      <Data>
+        <Version>1.0.2361</Version>
+        <VersionInfo>20230302.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:10:38.3814958Z</UtcTime>
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.1997500</Duration>
+      <Status>Healthy</Status>
+    </achmeaAdapter-zcn>
+    <achmeaAdapter-zcnvervoer>
+      <Data>
+        <Version>1.0.2361</Version>
+        <VersionInfo>20230302.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:10:38.3803134Z</UtcTime>
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.1982891</Duration>
+      <Status>Healthy</Status>
+    </achmeaAdapter-zcnvervoer>
+    <googleAdapter-trevvel>
+      <Data>
+        <Version>1.0.2380</Version>
+        <VersionInfo>20230321.2</VersionInfo>
+        <EnvironmentName />
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:11:24.1888274Z</UtcTime>
+        <Cached />
+      </Data>
+      <Duration>00:00:00.0336236</Duration>
+      <Status>Healthy</Status>
+    </googleAdapter-trevvel>
+    <googleAdapterApi-trevvel>
+      <Data>
+        <Version />
+        <VersionInfo />
+        <EnvironmentName />
+        <Culture />
+        <UtcTime />
+        <Cached>This response was resolved in Mon, 24 Apr 2023 08:10:38 GMT and will remain in cache until Mon, 24 Apr 2023 08:11:38 GMT</Cached>
+      </Data>
+      <Duration>00:00:00.0779889</Duration>
+      <Status>Healthy</Status>
+    </googleAdapterApi-trevvel>
+    <otpAdapter-trevvel>
+      <Data>
+        <Version>1.0.22290</Version>
+        <VersionInfo>20221017.1</VersionInfo>
+        <EnvironmentName />
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:11:24.1887559Z</UtcTime>
+        <Cached />
+      </Data>
+      <Duration>00:00:00.0230393</Duration>
+      <Status>Healthy</Status>
+    </otpAdapter-trevvel>
+    <wintopAdapter-viave>
+      <Data>
+        <Version>1.0.2394</Version>
+        <VersionInfo>20230404.1</VersionInfo>
+        <EnvironmentName>Production</EnvironmentName>
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:11:24.1894541Z</UtcTime>
+        <Cached />
+      </Data>
+      <Duration>00:00:00.0622298</Duration>
+      <Status>Healthy</Status>
+    </wintopAdapter-viave>
+    <FugecoAdapter>
+      <Data>
+        <Version>1.0.2355</Version>
+        <VersionInfo>20230224.1</VersionInfo>
+        <EnvironmentName />
+        <Culture></Culture>
+        <UtcTime>2023-04-24T08:11:24.192679Z</UtcTime>
+        <Cached />
+      </Data>
+      <Duration>00:00:00.0205610</Duration>
+      <Status>Healthy</Status>
+    </FugecoAdapter>
+  </Entries>
+</Root>
